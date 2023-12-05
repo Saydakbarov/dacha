@@ -1,0 +1,25 @@
+import React from "react";
+
+export const pinIcon = (
+  <svg
+    width="25"
+    height="32"
+    viewBox="0 0 25 32"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle cx="12.5" cy="12.8284" r="12.5" fill="#FF7E47" />
+    <circle cx="12.5007" cy="12.8284" r="3.17164" fill="white" />
+    <path
+      d="M12.313 31.6716L6.81952 22.1567L17.8064 22.1567L12.313 31.6716Z"
+      fill="#FF7E47"
+    />
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M16.3188 24.7342C21.3546 23.1203 25 18.4 25 12.8283C25 5.94094 19.4298 0.354579 12.5486 0.328369H12.4514C12.4053 0.328544 12.3594 0.328968 12.3135 0.32964V31.6715L12.3135 31.6716L16.3188 24.7342Z"
+      fill="black"
+      fillOpacity="0.1"
+    />
+  </svg>
+);

@@ -1,0 +1,258 @@
+export const data = [
+  {
+    images: [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №1",
+    price: "5 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "1",
+    hostCount: "1",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 1,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1528255671579-01b9e182ed1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №2",
+    price: "5 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 2,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1529408632839-a54952c491e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №3",
+    price: "5 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 3,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1464288550599-43d5a73451b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №4",
+    price: "5 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 4,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1493150134366-cacb0bdc03fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №5",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1520106392146-ef585c111254?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №6",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1530334542242-1410f69cb168?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №7",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1517414467812-ef3dbd81859a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №8",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1486304873000-235643847519?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №9",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №10",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №11",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/5/unsplash-bonus.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q]=60",
+    ],
+    name: "Квартира №12",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1525273177952-67455d25871f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №13",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1515263487990-61b07816b324?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №14",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №15",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+  {
+    images: [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    ],
+    name: "Квартира №16",
+    price: "9 000 000",
+    district: {
+      nameUz: "Чарвак",
+    },
+    doubleBad: "4",
+    hostCount: "8-10",
+    superPrice: null,
+    superComfort: null,
+    recommended: null,
+    id: 13,
+  },
+];

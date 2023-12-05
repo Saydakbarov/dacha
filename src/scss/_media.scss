@@ -1,0 +1,138 @@
+@media only screen and (max-width: 578px) {
+  .phone {
+    display: none;
+  }
+}
+@media only screen and (max-width: 538px) {
+  .product-btn {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1198px) {
+  .product-grid-container {
+    grid-template-rows: 1fr 2fr 1.5fr;
+    grid-template-columns: repeat(auto-fill, minmax(227px, 50%));
+    grid-template-areas:
+      "info comfort"
+      "rules comfort"
+      "distance price"
+      "map map"
+      "msg msg";
+  }
+  .product-btn {
+    left: 27%;
+  }
+  .category-card {
+    height: 250px;
+    padding: 25px;
+    &-icon {
+      height: 60px;
+    }
+    &-heading {
+      font-size: 24px !important;
+      text-align: center;
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .category-card-grid {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  .category-card:not(.category-card-page) {
+    height: 250px;
+    padding: 20px;
+    &-icon {
+      height: 40px;
+    }
+    &-heading {
+      font-size: 22px;
+      text-align: center;
+    }
+  }
+  .nav {
+    margin-bottom: 30px;
+  }
+  .category-card-heading {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width: 595px) {
+  .header-button {
+    display: none;
+  }
+  .nav {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .product-btn {
+    left: 52%;
+  }
+  .category-card-grid {
+    display: none;
+  }
+  .category-card {
+    height: 200px;
+    padding: 20px;
+    &-icon {
+      height: 50px;
+    }
+    &-heading {
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .product-grid-container {
+    grid-template-rows: 2fr 2fr 2fr 1.5fr;
+    grid-template-columns: 100%;
+    grid-template-areas:
+      "price"
+      "info"
+      "comfort"
+      "rules"
+      "distance"
+      "map"
+      "msg";
+  }
+  .product-btn {
+    left: 95px;
+  }
+  .card-img {
+    height: 180px;
+  }
+  .category-card {
+    height: 190px !important;
+    padding: 10px !important;
+    margin: 10px 0;
+    &-icon {
+      height: 70px;
+    }
+    &-heading {
+      font-size: 24px;
+    }
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .category-card {
+    height: 170px !important;
+    padding: 10px !important;
+    margin: 8px 0;
+    &-icon {
+      height: 70px;
+    }
+    &-heading {
+      font-size: 20px;
+    }
+  }
+}

@@ -1,0 +1,138 @@
+.search-bar {
+  &-nav {
+    margin-bottom: 21px;
+  }
+  .nav-item {
+    font: 700 14px / 19px Rubik;
+    color: $secondaryColor;
+  }
+
+  .nav-link {
+    color: currentColor;
+  }
+
+  .search-map {
+    color: $primaryColor !important;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .active {
+    position: relative;
+    color: $primaryColor;
+    &::before {
+      position: absolute;
+      bottom: -5px;
+      content: "";
+      width: 100%;
+      height: 2px;
+      background-color: $primaryColor;
+    }
+  }
+}
+
+.search-input {
+  &s {
+    position: relative;
+    box-shadow: 0px 4px 20px -1px rgba(0, 0, 0, 0.05);
+    &:focus {
+      outline: none;
+    }
+  }
+  cursor: pointer;
+  width: 20%;
+  height: 70px;
+  // padding-top: 20px;
+  padding: 0 20px;
+  border: 0;
+  border-right: 1px solid #f0f0f0;
+  border-radius: 0;
+  font: normal 16px / 19px Rubik;
+  color: $secondaryColor;
+  transition: width 0.3s ease;
+  &::placeholder {
+    color: currentColor;
+  }
+}
+
+input,
+button {
+  position: relative;
+}
+
+.location {
+  background: url(../assets/images/map-pin.svg) no-repeat calc(100% - 10px)
+    center;
+  border-radius: 6px 0 0 6px;
+  width: 45%;
+  outline: none;
+  border: 1px solid transparent;
+  padding: 0;
+  &:focus {
+    border: 1px solid $primaryColor;
+  }
+}
+
+.check-in,
+.check-out {
+  background: url(../assets/images/calendar.svg) no-repeat calc(100% - 10px)
+    center;
+}
+
+.guests {
+  background: url(../assets/images/users.svg) no-repeat calc(100% - 10px) center;
+  width: 13%;
+  border: 1px solid #e5e5ea;
+  transition: border 0.5s ease;
+  border-radius: 6px;
+  &:hover {
+    border: 1px solid $primaryColor;
+  }
+  &:focus {
+    outline: none;
+    border: 1px solid $primaryColor;
+    border-radius: 6px;
+  }
+}
+
+.guest-counter {
+  width: 300px;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.filter {
+  background: url(../assets/images/filter.svg) no-repeat calc(100% - 10px)
+    center;
+  // border-right: 0;
+  width: 13%;
+  border: 1px solid #e5e5ea !important;
+  border-radius: 6px;
+  &:focus,
+  &:hover {
+    border: 1px solid $primaryColor !important;
+  }
+  &-title {
+    font-size: 18px;
+    margin: 20px 0 5px 0;
+  }
+  border: 1px solid transparent;
+  transition: border 1s ease;
+  &:focus,
+  &:hover {
+    outline: none;
+    border: 1px solid $primaryColor;
+  }
+}
+
+.check-in,
+.check-out,
+.guests,
+.filter {
+  display: flex;
+  align-items: center;
+}
+
+.filtermodal {
+  width: 300px;
+  height: 200px;
+}

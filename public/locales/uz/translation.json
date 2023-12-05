@@ -1,0 +1,630 @@
+{
+  "Дачи": {
+    "1": "Dacha"
+  },
+  "Квартиры и дома": {
+    "1": "Xonadonlar"
+  },
+  "Гостиницы": {
+    "1": "Mehmonxonalar"
+  },
+  "Курортные зоны": {
+    "1": "Oromgohlar"
+  },
+  "Туры": {
+    "1": "Sayohat"
+  },
+  "Экстрим": {
+    "1": "Ekstrim"
+  },
+  "Добавить точку": {
+    "1": "Joy Qo'shish"
+  },
+  "Регистрация": {
+    "1": "Ro'yxatdan o'tish"
+  },
+  "Выйти": {
+    "1": "Chiqish"
+  },
+  "Локация": {
+    "1": "Joylashuv"
+  },
+  "Вьезд-Выезд": {
+    "1": "Sana"
+  },
+  "Гости": {
+    "1": "Mehmonlar"
+  },
+  "Взрослые": {
+    "1": "Kattalar"
+  },
+  "Дети": {
+    "1": "Bolalar"
+  },
+  "Фильтр": {
+    "1": "Filter"
+  },
+  "Поиск на карте": {
+    "1": "Kartadan qidirish"
+  },
+  "Поиск": {
+    "1": "Qidirish"
+  },
+  "Питомцы": {
+    "1": "Uy hayvonlari"
+  },
+  "спальни": {
+    "1": "Yotoqlar"
+  },
+  "Что вы хотите добавить": {
+    "1": "Qo'shishni hohlaysizmi"
+  },
+  "Фамилия": {
+    "1": "Familya"
+  },
+  "Имя": {
+    "1": "Ism"
+  },
+  "Введите номер": {
+    "1": "Raqamingizni kiriting"
+  },
+  "Отправить": {
+    "1": "Jo'natish"
+  },
+  "Зарегистрироваться": {
+    "1": "Ro'yxatdan o'tish"
+  },
+  "спальня": {
+    "1": "ta yotoq",
+    "2": "ta yotoq"
+  },
+  "гостей": {
+    "1": "ta mehmon",
+    "2": "ta mehmon"
+  },
+  "Комнаты": {
+    "1": "Xonalar soni"
+  },
+  "односпальная": {
+    "1": "Bir kishilik yotoq"
+  },
+  "двуспальная": {
+    "1": "Ikki kishilik yotoq"
+  },
+  "Меню": {
+    "1": "Menyu"
+  },
+  "Войти": {
+    "1": "Kirish"
+  },
+  "Введите телефонный номер": {
+    "1": "Telefon raqamingizni kiriting"
+  },
+  "Парол": {
+    "1": "Parol"
+  },
+  "Админ панель для арендаторов": {
+    "1": "Uy beruvchi uchun admin panel"
+  },
+  "Имя файлов": {
+    "1": "Fayl Nomi"
+  },
+  "Загрузить фото": {
+    "1": "Rasmni yuklang"
+  },
+  "Количество фотографий должно быть не менее 5": {
+    "1": "Rasmlar soni 5ta dan kam bo'lmasligi kerak"
+  },
+  "Показать больше": {
+    "1": "Ko'proq ko'rsatish"
+  },
+  "Информация": {
+    "1": "Ma'lumot"
+  },
+  "Гостей": {
+    "1": "Mehmonlar"
+  },
+  "Заезд после": {
+    "1": "Kirish"
+  },
+  "Выезд до": {
+    "1": "Chiqish"
+  },
+  "Удобства": {
+    "1": "Qulayliklar"
+  },
+  "Отопление": {
+    "1": "Isitish tizimi"
+  },
+  "Кондиционер": {
+    "1": "Konditsioner"
+  },
+  "Телевизор": {
+    "1": "Televizor"
+  },
+  "Гараж": {
+    "1": "Garaj"
+  },
+  "Тапчан": {
+    "1": "Chorpoya"
+  },
+  "Охрана": {
+    "1": "Qo'riqchi"
+  },
+  "Летняя-кухня": {
+    "1": "Yozgi oshxona"
+  },
+  "Зимняя-кухня": {
+    "1": "Qishgi oshxona"
+  },
+  "Летний-бассейн": {
+    "1": "Yozgi suzish hovuzi"
+  },
+  "Зимний-бассейн": {
+    "1": "Qishgi suzish hovuzi"
+  },
+  "Барбекью": {
+    "1": "Barbekyu"
+  },
+  "Официант": {
+    "1": "Ofitsiant"
+  },
+  "Повар": {
+    "1": "Oshpaz"
+  },
+  "Настольный теннис": {
+    "1": "Stol tennisi"
+  },
+  "Бильярд": {
+    "1": "Billiyard"
+  },
+  "Шезлонги": {
+    "1": "Shezlong"
+  },
+  "Жакузи": {
+    "1": "Jakuzi"
+  },
+  "Видеонаблюдение": {
+    "1": "Kuzatish kamerasi"
+  },
+  "Качество фотографий должно быть не менее 1080x762 px": {
+    "1": "Rasm sifati 1080x762px dan kam bo'lmasligi kerak"
+  },
+  "Размер каждой фотографии должно быть не больше 3МБ": {
+    "1": "Har bir rasm hajmi 3Mb dan katta bo'lmasin"
+  },
+  "Добавить видео": {
+    "1": "Videoni qo'shing"
+  },
+  "Правила": {
+    "1": "Qoidalar"
+  },
+  "Курение разрешено": {
+    "1": "Chekishga ruxsat"
+  },
+  "Алькогольные напитки": {
+    "1": "Alkogol ichimlikariga ruxsat"
+  },
+  "Животные разрешены": {
+    "1": "Uy hayvonlariga ruxsat"
+  },
+  "Вечеринки разрешены": {
+    "1": "Bazm qilishga ruhsat"
+  },
+  "Громкая музыка": {
+    "1": "Baland musiqaga ruhsat"
+  },
+  "Гости не являющаяся членами семьи": {
+    "1": "Oila a'zolari bo'lmagan shaxslar kirishiga ruxsat"
+  },
+  "Да": {
+    "1": "Ha"
+  },
+  "Нет": {
+    "1": "Yo'q"
+  },
+  "Цена": {
+    "1": "Narx"
+  },
+  "Расстояние": {
+    "1": "Masofa"
+  },
+  "км от ресторана": {
+    "1": "km: eng yaqin restorandan masofa"
+  },
+  "км от больницы": {
+    "1": "km: eng yaqin shifoxonadan masofa"
+  },
+  "км от магазина": {
+    "1": "km: eng yaqin do'kondan masofa"
+  },
+  "км от города": {
+    "1": "km: shahardan masofa"
+  },
+  "Видео линк": {
+    "1": "Video link"
+  },
+  "Cумов": {
+    "1": "So'm"
+  },
+  "Обычная цена за сутки": {
+    "1": "Bir kunlik narx"
+  },
+  "Сумма со скидкой": {
+    "1": "Chegirmadagi narxi"
+  },
+  "Цена по выходным за сутки": {
+    "1": "Dam olish kundagi bir kunlik narx"
+  },
+  "Выберите процент": {
+    "1": "Protsentni kiriting"
+  },
+  "Процент залога": {
+    "1": "Omonat protsenti"
+  },
+  "Время": {
+    "1": "Vaqt"
+  },
+  "Заезд": {
+    "1": "Kirish"
+  },
+  "Выезд": {
+    "1": "Ketish"
+  },
+  "Забыли пароль?": {
+    "1": "Parolni unutdingizmi?"
+  },
+  "Зарегистрируйтесь": {
+    "1": "",
+    "2": "Ro'yxatdan o'ting"
+  },
+  "если У вас нет аккаунта": {
+    "1": "",
+    "2": "Agar Sizda akkaunt bo'lmasa   ⠀"
+  },
+  "Сброс пароля": {
+    "1": "Parolni qayta o'rnatish"
+  },
+  "Выберите удобности": {
+    "1": "Qulayliklarni tanlang"
+  },
+  "От": {
+    "1": "dan"
+  },
+  "До": {
+    "1": "gacha"
+  },
+  "Комнаты и Кровати": {
+    "1": "Xonalar va yotoqlar"
+  },
+  "Общее количество комнат": {
+    "1": "Xonalarning umumiy soni"
+  },
+  "Спальни": {
+    "1": "Yotoqxonalar"
+  },
+  "Применить": {
+    "1": "Qo'llash"
+  },
+  "Отменить": {
+    "1": "Bekor qilish"
+  },
+  "сум": {
+    "1": "so'm"
+  },
+  "Забронировать": {
+    "1": "Band qilish"
+  },
+  "взрослых": {
+    "1": "ta kattalar"
+  },
+  "Есть": {
+    "1": "Bor"
+  },
+  "детей": {
+    "1": "ta bolalar"
+  },
+  "и": {
+    "1": "va"
+  },
+  "Введите номер банковского счета": {
+    "1": "Bank Hisob raqamingizni kiriting"
+  },
+  "ИНН компании": {
+    "1": "Kompaniya INN"
+  },
+  "МФО": {
+    "1": "MFO"
+  },
+  "Банк": {
+    "1": "Bank"
+  },
+  "Выберите банк": {
+    "1": "Bankni tanlang"
+  },
+  "Филиал": {
+    "1": "Filial"
+  },
+  "Выберите филиал": {
+    "1": "Filialni tanlang"
+  },
+  "Информация о счёте": {
+    "1": "Shaxsiy hisob raqam haqida"
+  },
+  "Тип счета": {
+    "1": "Shoyt turi"
+  },
+  "Пластиковая карта": {
+    "1": "Plastik Karta"
+  },
+  "Банковский счет": {
+    "1": "Bank hisob raqami"
+  },
+  "Информация об арендаторе": {
+    "1": "Ijarachi uchun ma'lumot"
+  },
+  "Серия и номер паспорта": {
+    "1": "Passport Seriya raqami"
+  },
+  "Кем выдан": {
+    "1": "Qayerda berilgan"
+  },
+  "Когда выдан": {
+    "1": "Qachon berilgan"
+  },
+  "Действует до": {
+    "1": "Qachongacha"
+  },
+  "Главная информация": {
+    "1": "Asosiy ma'lumot"
+  },
+  "Тип": {
+    "1": "Turi"
+  },
+  "Название (не объязательно)": {
+    "1": "Nomi ihtiyoriy"
+  },
+  "Количество комнат": {
+    "1": "Xonalar soni"
+  },
+  "Общее помощение": {
+    "1": "Umumiy hududi"
+  },
+  "Одноместный спальни": {
+    "1": "Bir o'rinlik yotoq"
+  },
+  "Двухместный спальни": {
+    "1": "Ikki o'rinlik yotoq"
+  },
+  "Количесвто гостей": {
+    "1": "Mehmonlar soni"
+  },
+  "Разрешить курение": {
+    "1": "Chekishga ruhsat"
+  },
+  "Разрешить алькоголь": {
+    "1": "Spirtli ichimliklarga ruhsat"
+  },
+  "Разрешить домашних животных": {
+    "1": "Uy hayvonlariga ruxsat"
+  },
+  "Разрешить только семей": {
+    "1": "Faqat Oila uchun"
+  },
+  "Разрешить громкую музыку": {
+    "1": "Baland musiqalarga ruxsat"
+  },
+  "Разрешить вечеринок": {
+    "1": "Bazmlarga ruxsat"
+  },
+  "Адрес": {
+    "1": "Manzil"
+  },
+  "Регион": {
+    "1": "Viloyat"
+  },
+  "Выберите регион": {
+    "1": "Viloyatni tanlang"
+  },
+  "Город / район": {
+    "1": "Shahar / tuman"
+  },
+  "Выберите массив": {
+    "1": "Tumanni tanlang"
+  },
+  "Улица": {
+    "1": "Ko'cha"
+  },
+  "Дом": {
+    "1": "Uy"
+  },
+  "Квр": {
+    "1": "Xonadon"
+  },
+  "Условия забронирования": {
+    "1": "Band qilish talabi"
+  },
+  "Максимальное количество дней бронирования": {
+    "1": "Nechchi kungacha"
+  },
+  "Минимальое время до заезда": {
+    "1": "Shu kungacha"
+  },
+  "Главное": {
+    "1": "Asosiy"
+  },
+  "Укажите геолокация": {
+    "1": "Xaritadan manzilni kiriting"
+  },
+  "Подтвердить": {
+    "1": "Tasdiqlash"
+  },
+  "Вчера": {
+    "1": "Kecha"
+  },
+  "Сегодня": {
+    "1": "Bugun"
+  },
+  "Завтра": {
+    "1": "Ertaga"
+  },
+  "Месяц": {
+    "1": "1 Oy"
+  },
+  "Транспорт": {
+    "1": "Transport"
+  },
+  "Забрать из аэропорт": {
+    "1": "Airaportdan olib kelish"
+  },
+  "Отвезти в аэропорт": {
+    "1": "Airaportga olib borish"
+  },
+  "Бар": {
+    "1": "Bar"
+  },
+  "Сауна": {
+    "1": "Sauna"
+  },
+  "Банкетный зал": {
+    "1": "Marosimlar uchun zal"
+  },
+  "24ч охрана": {
+    "1": "24s qo'riqlash"
+  },
+  "Терасса": {
+    "1": "Terassa"
+  },
+  "24ч услуга": {
+    "1": "24s xizmat"
+  },
+  "Добавить типь комнаты": {
+    "1": "Xona turini kiritish"
+  },
+  "Информация о директоре": {
+    "1": "Direktor haqida ma'lumot"
+  },
+  "Профиль": {
+    "1": "Profil"
+  },
+  "Контактная информация": {
+    "1": "Kontakt ma'lumotlari"
+  },
+  "Добавить картинки комнат": {
+    "1": "Xona rasmini qo'shing"
+  },
+  "Тип комната": {
+    "1": "Xona turi"
+  },
+  "Призденцский комната": {
+    "1": "Prezident xonasi"
+  },
+  "Одно комната": {
+    "1": "Bir xonali"
+  },
+  "Двух комната": {
+    "1": "Ikki xonali"
+  },
+  "Двух раздельний комната": {
+    "1": "Egizak xonali"
+  },
+  "Семейний комната": {
+    "1": "Oilaviy xona"
+  },
+  "Королевский комната": {
+    "1": "Shoxona xona"
+  },
+  "Трех комната": {
+    "1": "Uch xonali"
+  },
+  "Жилое помощение": {
+    "1": "Yashash maydoni"
+  },
+  "Удобства комнат": {
+    "1": "Xona qulayliklari"
+  },
+  "Изминеть": {
+    "1": "O'zgartirish"
+  },
+  "Добавить Регион": {
+    "1": "Viloyat qo'shish"
+  },
+  "Узбекский": {
+    "1": "O'zbekcha"
+  },
+  "Русский": {
+    "1": "Ruscha"
+  },
+  "Ангилийский": {
+    "1": "Inglizcha"
+  },
+  "Добавить": {
+    "1": "Qo'shish"
+  },
+  "Добавить Район": {
+    "1": "Tuman qo'shish"
+  },
+  "Лист Регион": {
+    "1": "Viloyatlar listi"
+  },
+  "Что вы хотите добавить?": {
+    "1": "Nima qo'shmoqchisiz?"
+  },
+  "Действие": {
+    "1": "Amallar"
+  },
+  "Название региона": {
+    "1": "Hudud nomi"
+  },
+  "Изменить": {
+    "1": "O'zgartirish"
+  },
+  "Удалить": {
+    "1": "O'chirish"
+  },
+  "Вы дейсвительно хотите удалить этот пост?": {
+    "1": "Siz ushbu postni o'chirmoqchimisiz?"
+  },
+  "Вы дейсвительно хотите удалить этот регион?": {
+    "1": "Siz ushbu hududni o'chirmoqchimisiz?"
+  },
+  "Удалите области, принадлежащие области!": {
+    "1": "Hududga tegishli tumanlarni o'chiring!"
+  },
+  "Лист Район": {
+    "1": "Tumanlar ro'yxati"
+  },
+  "Уведомление": {
+    "1": "Xabarnoma"
+  },
+  "Сумма оплаты": {
+    "1": "To'lov narxi:"
+  },
+  "Выберите способ оплаты": {
+    "1": "To'lov usulini tanlang"
+  },
+  "Информации о директора": {
+    "1": "Direktor haqida ma'lumot"
+  },
+  "День рождения": {
+    "1": "Tug'ilgan kun"
+  },
+  "Связаться с владельцом": {
+    "1": "Ijarachi bilan bog'lanish"
+  },
+  "Оставьте своё сообщение": {
+    "1": "Habaringizni shu yerda qoldiring"
+  },
+  "Рекомендуем": {
+    "1": "Tavsiya etiladi"
+  },
+  "Супер комфорт": {
+    "1": "Super qulayliklar"
+  },
+  "Супер цена": {
+    "1": "Super narx"
+  },
+  "Открыть карту": {
+    "1": "Haritani ochish"
+  }
+}

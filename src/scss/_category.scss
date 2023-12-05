@@ -1,0 +1,92 @@
+.category-container {
+  position: relative;
+  display: flex;
+  flex-shrink: 1;
+}
+.category-card {
+  margin-top: 10px;
+  height: 320px;
+  background: #fff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 40px;
+  border-radius: 10px;
+  color: #fff;
+  position: relative;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transform: perspective(500px);
+  &:focus {
+    outline: none;
+  }
+  &:hover {
+    z-index: 999;
+  }
+  &-icon {
+    display: block;
+    transform: translateZ(200px) scale(0.6);
+    position: absolute;
+    top: 50%;
+    height: 50%;
+    height: 90px;
+    z-index: 999;
+    transform: translate3d(0, -50%, 100px) scale(0.8);
+  }
+  &-img {
+    position: absolute;
+    z-index: 9;
+    opacity: 0.5;
+    background: $primaryColor;
+    border-radius: 10px;
+    bottom: 0;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+  }
+  &-heading {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    z-index: 99;
+  }
+  &-dacha {
+    background-color: $primaryColor;
+  }
+  &-home {
+    background-color: $homeColor;
+  }
+  &-hotel {
+    background-color: $hotelColor;
+  }
+  &-resort {
+    background-color: $resortColor;
+  }
+  &-tour {
+    background-color: $tourColor;
+  }
+  &-extreme {
+    background-color: $extremeColor;
+  }
+  &-page {
+    height: 130px;
+    padding: 8px;
+    border-radius: 0;
+    & .category-card-img {
+      height: 130px;
+      border-radius: 0;
+    }
+    & > h3 {
+      font-size: 22px;
+    }
+    & > .category-card-icon {
+      top: 40%;
+      width: 50px;
+    }
+  }
+  &-grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(5, minmax(200px, 1fr));
+  }
+}

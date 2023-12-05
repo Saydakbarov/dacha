@@ -1,0 +1,57 @@
+.form {
+  &-sidelabel {
+    height: 52px;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #c3c3c3;
+    border-radius: 6px;
+    background: #eee;
+  }
+  &-input {
+    height: 52px;
+    padding: 0 10px;
+    border: 2px solid #c3c3c3;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  &-label {
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  &-dropdown {
+    height: 52px;
+    border: 2px solid #c3c3c3;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 10px;
+  }
+  &-btn {
+    height: 52px;
+    background: $primaryColor;
+    border: none;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+}
+
+.login {
+  height: 75vh;
+  min-height: 500px;
+  & input {
+    width: 270px;
+  }
+  &-sent {
+    text-align: center;
+    margin: 10px 0;
+  }
+  &-link {
+    text-align: center;
+    color: $primaryColor;
+  }
+}

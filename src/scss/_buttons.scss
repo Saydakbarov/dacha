@@ -1,0 +1,80 @@
+.btn {
+  cursor: pointer;
+  border: 0;
+  border-radius: 6px;
+  padding: 0 15px;
+  &-header {
+    height: 33px;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  &-outline {
+    border: 2px solid $gray;
+    background: #fff;
+  }
+  &-fill {
+    color: #ffeacb;
+    background: $primaryColor;
+    box-shadow: 0px 4px 10px rgba(255, 126, 71, 0.25);
+    transition: background 0.3s ease;
+    &:focus {
+      outline: none;
+      background: #f79e77;
+    }
+    &:hover {
+      background: #f79e77;
+    }
+  }
+  &-call {
+    font-weight: 500;
+  }
+  &-language {
+    font: 500 14px Rubik;
+    visibility: visible;
+    & > img {
+      margin-right: 5px;
+    }
+    &:focus + .languages-dropdown .languages {
+      visibility: visible;
+    }
+    .chevron {
+      position: relative;
+      bottom: 2px;
+    }
+  }
+  &-more {
+    padding: 8px 15px;
+    transition: border 0.2s ease;
+    text-align: center;
+    font-size: 14px;
+    &:focus {
+      border-color: rgb(148, 148, 148);
+      outline: none;
+    }
+    &:hover {
+      border-color: $primaryColor;
+    }
+  }
+  &-search {
+    position: relative;
+    left: 1px;
+    width: 110px;
+    height: 70px;
+    font: bold 18px / 19px Rubik;
+    &:hover {
+      background-color: rgb(255, 126, 71);
+    }
+
+    &:active {
+      background-color: #ffa756;
+    }
+
+    &:active:focus {
+      outline: none;
+    }
+  }
+}
+
+.language-abbr {
+  margin-right: 5px;
+}

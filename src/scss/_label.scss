@@ -1,0 +1,25 @@
+.label {
+  padding: 1px 5px;
+  font-size: 14px;
+  color: #ffffff;
+  border-radius: 3px;
+  &-container {
+    flex-wrap: wrap;
+    gap: 5px;
+    display: flex;
+    top: 15px;
+    right: 15px;
+    position: absolute;
+    z-index: 999;
+    justify-content: flex-end;
+  }
+  &-recommended {
+    background: $primaryColor;
+  }
+  &-price {
+    background: $resortColor;
+  }
+  &-comfort {
+    background: $homeColor;
+  }
+}
